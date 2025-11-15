@@ -3,8 +3,8 @@ import "./navbar.css";
 
 function Navbar() {
   return (
-    <nav className="navbar">
-      <div className="logo">
+    <nav className="navbar"> 
+      <div className="logo"> 
         <span className="logo-text">Learn</span>
         <span className="logo-highlight">Hub</span>
       </div>
