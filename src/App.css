@@ -1,0 +1,16 @@
+main {
+  padding: 20px;
+  min-height: 80vh;
+}
+
+.btn {
+  background-color: #004aad;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: #00307d;
+}
